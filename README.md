@@ -47,36 +47,6 @@
   </a>
 </div>
 
-<style>
-.music-section {
-  display: flex;
-  gap: 20px;
-  justify-content: center;
-}
-.card {
-  width: 160px;
-  height: 160px;
-  border-radius: 20px;
-  transition: transform 0.4s ease, box-shadow 0.4s ease;
-  cursor: pointer;
-}
-.card:hover {
-  transform: scale(1.1) rotate(5deg);
-  box-shadow: 0 8px 20px rgba(0,0,0,0.3);
-}
-.album { border-radius: 20px; }
-.artist { border-radius: 50%; }
-.card:active {
-  transform: scale(0.9) rotate(-5deg);
-}
-</style>
-
----
-### 🔥 Fun Section  
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=2000&color=FF0000&center=true&vCenter=true&width=600&lines=⚡+Eat+Sleep+Code+Repeat;🔥+Breaking+Limits;❤️+Bots+Are+My+Language" alt="Typing SVG" />
-</p>
-
 ---
 
 ### 🌐 Social Media  
@@ -84,11 +54,11 @@
   <a href="https://instagram.com/lukmanmwlanaa__">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
-  <a href="https://tiktok.com/@lukmanmwlanaa__">
-    <img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" />
-  </a>
   <a href="https://t.me/bewstr">
     <img src="https://img.shields.io/badge/Telegram-00a8d7?style=for-the-badge&logo=telegram&logoColor=white" />
+  </a>
+    <a href="https://tiktok.com/@lukmanmwlanaa__">
+    <img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" />
   </a>
 </p>
 
