@@ -1,17 +1,4 @@
-<!-- 🔥 FULL ANIMATED GITHUB PROFILE (DOMINANT RED) -->
-
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=30&duration=3000&pause=1000&color=FF0000&center=true&vCenter=true&width=700&lines=🔥+Welcome+to+Bew's+Profile;🚀+Bot+Developer+%7C+Tech+Explorer" alt="Typing SVG" />
-</h1>
-
 ---
-### ⚡ About Me  
-- 🛠️ **Bot Developer** (WhatsApp | Telegram | Web)  
-- 🧠 Motto: *“Automate everything, control the chaos.”*  
-- 🤝 Open to: Collaboration & crazy projects 🔴  
-
----
-
 ### 🚀 Tech Arsenal  
 <p align="center">
   <img src="https://img.shields.io/badge/Node.js-FF0000?style=for-the-badge&logo=node.js&logoColor=white" />
@@ -23,28 +10,13 @@
 
 ---
 
-### 📊 Animated GitHub Stats  
+### 📊 GitHub Stats  
 <div align="center">
 
   ![Stats](https://github-readme-stats.vercel.app/api?username=bew&show_icons=true&theme=radical&title_color=ff0000&icon_color=ff0000&text_color=ffffff&bg_color=0d0d0d&hide_border=true&count_private=true)  
 
-  ![Streak](https://streak-stats.demolab.com?user=bew&theme=highcontrast&ring=ff0000&fire=ff0000&currStreakLabel=ff0000&sideLabels=ffffff&hide_border=true)  
-
   ![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bew&layout=compact&theme=radical&title_color=ff0000&text_color=ffffff&bg_color=0d0d0d&hide_border=true)
 
-</div>
-
----
-<div class="music-section">
-  <!-- Playlist -->
-  <a href="https://open.spotify.com/playlist/37i9dQZF1DWZcHk7bMKrp9" target="_blank">
-    <img class="card album" src="https://files.catbox.moe/rucxlt.jpg" alt="Hindia Playlist">
-  </a>
-
-  <!-- Artist -->
-  <a href="https://open.spotify.com/artist/7Gy1PxqrgsiqWF6JNYPHeB" target="_blank">
-    <img class="card artist" src="https://files.catbox.moe/90lau6.jpg" alt="Hindia Artist">
-  </a>
 </div>
 
 ---
@@ -61,9 +33,3 @@
     <img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" />
   </a>
 </p>
-
----
-### 👀 Visitor Count  
-<div align="center">
-  ![Visitor Count](https://profile-counter.glitch.me/Lukman-Maulana/count.svg)
-</div>
