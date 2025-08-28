@@ -46,7 +46,7 @@
 
 ### 🎧 Favorite Music (Playlist Hindia)
 <p align="center">
-  <iframe style="border-radius:12px" src="[https://open.spotify.com/embed/playlist/6rX13H3DcVnGkIwbT0p3RB?utm_source=generator](https://open.spotify.com/playlist/37i9dQZF1DWZcHk7bMKrp9?si=p4i_DdNvTNisnU4KLMdjkw&pi=Nz6cdWSGT_2aj)" width="80%" height="380" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe>
+  <iframe style="border-radius:12px" src="https://open.spotify.com/playlist/37i9dQZF1DWZcHk7bMKrp9" width="80%" height="380" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe>
 </p>
 
 ---
