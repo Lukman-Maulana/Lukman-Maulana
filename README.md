@@ -1,13 +1,12 @@
 <!-- 🔥 FULL ANIMATED GITHUB PROFILE (DOMINANT RED) -->
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=30&duration=3000&pause=1000&color=FF0000&center=true&vCenter=true&width=700&lines=🔥+Welcome+to+Bew's+Profile;🚀+Bot+Developer+%7C+Tech+Explorer;❤️+Dominated+by+Red+Vibes" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=30&duration=3000&pause=1000&color=FF0000&center=true&vCenter=true&width=700&lines=🔥+Welcome+to+Bew's+Profile;🚀+Bot+Developer+%7C+Tech+Explorer" alt="Typing SVG" />
 </h1>
 
 ---
 ### ⚡ About Me  
 - 🛠️ **Bot Developer** (WhatsApp | Telegram | Web)  
-- 🎨 Style: **Dark Theme + Red Energy**  
 - 🧠 Motto: *“Automate everything, control the chaos.”*  
 - 🤝 Open to: Collaboration & crazy projects 🔴  
 
