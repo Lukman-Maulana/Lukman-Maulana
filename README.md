@@ -46,11 +46,12 @@
 
 ### 🎧 Favorite Music (Playlist Hindia)
 <p align="center">
-  <iframe style="border-radius:12px" src="https://open.spotify.com/playlist/37i9dQZF1DWZcHk7bMKrp9" width="80%" height="380" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe>
+  <a href="https://open.spotify.com/playlist/37i9dQZF1DWZcHk7bMKrp9?si=p4i_DdNvTNisnU4KLMdjkw" target="_blank">
+    <img src="https://i.scdn.co/image/ab67706f00000002cc4e3a928d4f6cbd0e7269d2" alt="Hindia Playlist" width="70%" style="border-radius:12px;">
+  </a>
 </p>
 
 ---
-
 ### 📬 Connect with Me
 <p align="center">
   <a href="https://instagram.com/lukmanmwlanaa__"><img src="https://img.shields.io/badge/Instagram-2563EB?style=for-the-badge&logo=instagram&logoColor=white"/></a>
@@ -63,11 +64,3 @@
 ### 🏆 GitHub Trophies
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=bewstr&theme=tokyonight&no-frame=true&row=1&column=6&margin-w=15&margin-h=15"/>
-</p>
-
----
-
-<!-- Footer -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,100:1E3A8A&height=100&section=footer"/>
-</p>
