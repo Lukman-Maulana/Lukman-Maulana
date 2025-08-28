@@ -1,16 +1,73 @@
-## Hi there 👋
+<!-- Banner Atas -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1E3A8A,100:2563EB&height=200&section=header&text=Welcome%20to%20Bew's%20Universe!&fontSize=40&fontColor=ffffff&animation=fadeIn" />
+</p>
 
-<!--
-**Lukman-Maulana/Lukman-Maulana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- Typing Effect -->
+<p align="center">
+  <a href="https://github.com/bewstr">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=4000&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=Hi+There!+I'm+Bew+👋;Bot+Developer+⚡;Web+Builder+🌐;Tech+Explorer+🚀;Code+%26+Coffee+☕" />
+  </a>
+</p>
 
-Here are some ideas to get you started:
+<!-- Visitor Counter -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=bewstr&label=Profile%20Views&color=2563EB&style=for-the-badge" />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 📊 My GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=bewstr&show_icons=true&theme=tokyonight&title_color=3B82F6&icon_color=3B82F6" height="170"/>
+  <img src="https://streak-stats.demolab.com?user=bewstr&theme=tokyonight&ring=3B82F6&fire=3B82F6&currStreakLabel=3B82F6" height="170"/>
+</p>
+
+---
+
+### 🛠 Tech Stack
+<p align="center">
+  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-2563EB?style=for-the-badge&logo=javascript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Telegram%20Bot-1E3A8A?style=for-the-badge&logo=telegram&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-0F172A?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Vercel-111111?style=for-the-badge&logo=vercel&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Firebase-2563EB?style=for-the-badge&logo=firebase&logoColor=yellow"/>
+</p>
+
+---
+
+### 🎶 Vibes While Coding
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400">
+</p>
+
+---
+
+### 🎧 Favorite Music (Playlist Hindia)
+<p align="center">
+  <iframe style="border-radius:12px" src="https://open.spotify.com/embed/playlist/6rX13H3DcVnGkIwbT0p3RB?utm_source=generator" width="80%" height="380" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe>
+</p>
+
+---
+
+### 📬 Connect with Me
+<p align="center">
+  <a href="https://instagram.com/lukmanmwlanaa__"><img src="https://img.shields.io/badge/Instagram-2563EB?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+  <a href="https://tiktok.com/@lukmanmwlanaa__"><img src="https://img.shields.io/badge/TikTok-1E40AF?style=for-the-badge&logo=tiktok&logoColor=white"/></a>
+  <a href="https://t.me/bewstr"><img src="https://img.shields.io/badge/Telegram-3B82F6?style=for-the-badge&logo=telegram&logoColor=white"/></a>
+</p>
+
+---
+
+### 🏆 GitHub Trophies
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=bewstr&theme=tokyonight&no-frame=true&row=1&column=6&margin-w=15&margin-h=15"/>
+</p>
+
+---
+
+<!-- Footer -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,100:1E3A8A&height=100&section=footer"/>
+</p>
